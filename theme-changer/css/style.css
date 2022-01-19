@@ -1,0 +1,29 @@
+.background-light {
+  background-color: white;
+}
+.background-dark {
+  background-color: black;
+}
+.container-lg {
+  margin: 25px auto;
+}
+button[data-theme="btn"] {
+  display: block;
+  margin: 0 auto 10px auto;
+}
+button[data-theme="btn-outline"] {
+  display: block;
+  margin: 0 auto 10px auto;
+}
+.text-dark {
+  color: black;
+}
+.text-light {
+  color: white;
+}
+.card-header-dark {
+  background-color: rgb(49, 49, 49);
+}
+.card-dark {
+  background-color: black;
+}
